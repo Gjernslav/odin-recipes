@@ -1,3 +1,3 @@
 # odin-recipes
 
-This project was challenging at first but I learned quite a lot. I am writing this after I completed 4 recipes on my main website. Remembering that this was just a bare bones.
+This project was challenging at first but I learned quite a lot. I am writing this after I completed 4 recipes on my main website. Remembering that this was just a bare bones project. I used the previous lessons to assist me, The only thing I really need to be more conscious of is commits. I need to make more notes even when I was doing simple things like fixing all my typos, or even going back and adding the nonreffer and other tweaks to my links. This was fun to make and also to see what and how much I done was impressive to me. Im excited to go back to this project and make new adjustments and commits as I progress.
